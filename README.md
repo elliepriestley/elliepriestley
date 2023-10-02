@@ -8,7 +8,7 @@
 - 🧩 Open to opportunies from November 2023 - you can find me on LinkedIn [here](https://www.linkedin.com/in/ellie-priestley/)
 
 ### Technology Stack 
-- Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+- Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 - [React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
 - [CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
 - [HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)
