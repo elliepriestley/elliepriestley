@@ -1,7 +1,7 @@
 ## Hi there, I'm Ellie 👋
 
 ### About Me 
-- 👩🏼‍💻 Aspiring Software Engineer, currently studying at [Makers Academy](https://makers.tech/) with graduation in October 2023
+- 👩🏼‍💻 Software Engineer, currently studying at [Makers Academy](https://makers.tech/) with graduation in October 2023
 - 📱 Currently learning Swift, and expanding my React knowledge base
 - 💭 Theme Winner of Showcode's Athena Hackathon July 2023: [Final Project: 'Talent Tap'](https://www.canva.com/design/DAFnZ3vUgiE/B0xfEiwSlyoJMT2aYiNwsw/view?utm_content=DAFnZ3vUgiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 💫 Hobbies include Spin 🚴, Gaming 👾, Literature & Culture 📚 and Plant-based eating 🍱
