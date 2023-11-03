@@ -2,7 +2,7 @@
 
 ### About Me 
 - 👩🏼‍💻 Software Engineer, recent graduate from [Makers Academy](https://makers.tech/) Bootcamp (July - October 2023)
-- 📱 Currently learning Swift, and expanding my React knowledge base
+- 📱 Currently learning React Native
 - 💭 Theme Winner of Showcode's Athena Hackathon July 2023: [Final Project: 'Talent Tap'](https://www.canva.com/design/DAFnZ3vUgiE/B0xfEiwSlyoJMT2aYiNwsw/view?utm_content=DAFnZ3vUgiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 💫 Hobbies include Spin 🚴, Gaming 👾, Literature & Culture 📚 and Plant-based eating 🍱
 - 🧩 Open to opportunies from November 2023 - you can find me on LinkedIn [here](https://www.linkedin.com/in/ellie-priestley/) or learn more about me from my CV [here](https://github.com/elliepriestley/-cv)
