@@ -1,8 +1,7 @@
 ## Hi there, I'm Ellie 👋
 
 ### About Me 
-- 👩🏼‍💻 Software Engineer at Sedex, [Makers Academy](https://makers.tech/) Bootcamp graduate 
-- 📱 Currently learning Kotlin
+- 👩🏼‍💻 Software Engineer at Sedex, [Makers Academy](https://makers.tech/) graduate 
 - 💭 Theme Winner of Showcode's Athena Hackathon July 2023: [Final Project: 'Talent Tap'](https://www.canva.com/design/DAFnZ3vUgiE/B0xfEiwSlyoJMT2aYiNwsw/view?utm_content=DAFnZ3vUgiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 💫 Hobbies include Spin 🚴, Gaming 👾, Literature & Culture 📚 and Plant-based eating 🍱
 - 🧩 Connect with me on LinkedIn [here](https://www.linkedin.com/in/ellie-priestley/)
