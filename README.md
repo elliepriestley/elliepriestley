@@ -1,7 +1,7 @@
 ## Hi there, I'm Ellie 👋
 
 ### About Me 
-- 👩🏼‍💻 Product-minded Full Stack Software Engineer at Sedex, turning complex technical challenges into simple, beautiful, user-centred solutions
+- 👩🏼‍💻 Product-minded Full Stack Software Engineer at Sedex, turning complex technical challenges into simple, user-centred solutions
 - 💭 Passionate about knowledge sharing and continuous improvement. Advocate for XP practices
 - 🏆 Finalist in the Rising Star category at the Women in Tech Excellence Awards 2025 (winner to be announced). Previously a Theme Winner at Showcode’s Athena Hackathon 2023.
 - 🧩 Connect with me on LinkedIn [here](https://www.linkedin.com/in/ellie-priestley/)
